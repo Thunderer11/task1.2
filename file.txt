@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HTML can be fun
 Change from main
+Changes from new
+Change from new
+>>>>>>> new
